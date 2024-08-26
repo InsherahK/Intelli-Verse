@@ -1,0 +1,11 @@
+D:\Project\ModelLayer\bin\Debug\net7.0\ModelLayer.deps.json
+D:\Project\ModelLayer\bin\Debug\net7.0\ModelLayer.dll
+D:\Project\ModelLayer\bin\Debug\net7.0\ModelLayer.pdb
+D:\Project\ModelLayer\obj\Debug\net7.0\ModelLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\ModelLayer\obj\Debug\net7.0\ModelLayer.AssemblyInfoInputs.cache
+D:\Project\ModelLayer\obj\Debug\net7.0\ModelLayer.AssemblyInfo.cs
+D:\Project\ModelLayer\obj\Debug\net7.0\ModelLayer.csproj.CoreCompileInputs.cache
+D:\Project\ModelLayer\obj\Debug\net7.0\ModelLayer.dll
+D:\Project\ModelLayer\obj\Debug\net7.0\refint\ModelLayer.dll
+D:\Project\ModelLayer\obj\Debug\net7.0\ModelLayer.pdb
+D:\Project\ModelLayer\obj\Debug\net7.0\ref\ModelLayer.dll
